@@ -4,6 +4,8 @@ using namespace std;
 int main() {
     cout << "Jai Shree Ram" ;
     cout << "Jai Bajarang Bali" ;
+    cout << "Jai Bajrang Bali";
+    cout << "Jai Shree Ram";
     cout << "The sample file for the gitprac" << endl;
     return 0;
 }
